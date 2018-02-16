@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+                "name": "Launch",
+                "type": "python",
+                "request": "launch",
+                "stopOnEntry": false,
+                "program": "${file}",
+                "pythonPath": "${workspaceRoot}\\Scripts\\python.exe",
+                "debugOptions": [
+                    "WaitOnAbnormalExit",
+                    "WaitOnNormalExit",
+                    "RedirectOutput"
+                ]  
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "${workspaceRoot}\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "${workspaceRoot}\\Scripts\\python.exe",
+        "${workspaceRoot}\\Lib\\site-packages",
+        "${workspaceRoot}\\Lib"
+    ]
+}
