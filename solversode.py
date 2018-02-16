@@ -14,7 +14,7 @@ def random_sort(n):
 
 @fn_timer
 def get_sqrt(n):
-    mp.dps = 1000
+    mp.dps = 10000
     x = mp.sqrt(n)
     print(x)
     return
